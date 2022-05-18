@@ -15,7 +15,7 @@ Here, we focus on and discuss some graph-based epidemiological models and show h
 
 We provide two different Jupyter notebooks, that can be easily open using GoogleColab
 
- - Non_markov_SIR_covid.ipynb - This notebook refers to "BEYOND COVID-19 PANDEMIC: TOPOLOGY-AWARE OPTIMIZATION OF VACCINATION STRATEGY FOR MINIMIZING VIRUS SPREADING"
+ - Non_markov_SIR_covid.ipynb - This notebook refers to "BEYOND COVID-19 PANDEMIC: TOPOLOGY-AWARE OPTIMIZATION OF VACCINATION STRATEGY FOR MINIMIZING VIRUS SPREADING". It carries simulations with a fixed recovery rate of 14 days, with the possibility to modify both newtork topology and simulation parameters.
 
 
 
