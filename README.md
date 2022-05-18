@@ -11,3 +11,6 @@ Here, we present the benefits of a topology-aware versus an age-based vaccinatio
 Here, we focus on and discuss some graph-based epidemiological models and show how their use may significantly improve the disease spreading control. We offer some examples related to the recent COVID-19 pandemic and discuss how to generalize them to other diseases.
 
 
+We provide two different Jupyter notebooks, that can be easily open using GoogleColab
+
+Non_markov_SIR_covid.ipynb - This notebook referes to the 
