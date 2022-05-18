@@ -13,4 +13,4 @@ Here, we focus on and discuss some graph-based epidemiological models and show h
 
 We provide two different Jupyter notebooks, that can be easily open using GoogleColab
 
-Non_markov_SIR_covid.ipynb - This notebook referes to the 
+Non_markov_SIR_covid.ipynb - This notebook refers to the 
